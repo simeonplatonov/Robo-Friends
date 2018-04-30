@@ -1,5 +1,5 @@
 import React from "react";
-import "tachyons";
+
 
 const Card = (props) => {
 
